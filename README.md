@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bibek6306
+- 👋 Hi, I’m @BibekBhusal
 - 👀 I’m interested in developing  mobile application
-- 🌱 I’m currently learning Kings Own Institute
+- 🌱 I’m currently learning in Kings Own Institute as undergraduate student.
 - 💞️ I’m looking to collaborate on app development
 - 📫 
 
